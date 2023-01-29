@@ -1,0 +1,72 @@
+[
+  {
+    "id": 0,
+    "transactionDate": "Sun Apr 04 2021",
+    "currency": "JPY",
+    "amountUSD": 40.33,
+    "amountVar": 29.04
+  },
+  {
+    "id": 1,
+    "transactionDate": "Fri Mar 19 2021",
+    "currency": "EUR",
+    "amountUSD": 54.88,
+    "amountVar": 39.51
+  },
+  {
+    "id": 2,
+    "transactionDate": "Fri Apr 23 2021",
+    "currency": "EUR",
+    "amountUSD": 90.35,
+    "amountVar": 65.05
+  },
+  {
+    "id": 3,
+    "transactionDate": "Sat Mar 06 2021",
+    "currency": "JPY",
+    "amountUSD": 60.71,
+    "amountVar": 43.71
+  },
+  {
+    "id": 4,
+    "transactionDate": "Sat Jan 23 2021",
+    "currency": "EUR",
+    "amountUSD": 27.99,
+    "amountVar": 20.15
+  },
+  {
+    "id": 5,
+    "transactionDate": "Sat Mar 06 2021",
+    "currency": "JPY",
+    "amountUSD": 51.35,
+    "amountVar": 36.97
+  },
+  {
+    "id": 6,
+    "transactionDate": "Fri Feb 12 2021",
+    "currency": "EUR",
+    "amountUSD": 80.91,
+    "amountVar": 58.26
+  },
+  {
+    "id": 7,
+    "transactionDate": "Tue Jan 19 2021",
+    "currency": "GBP",
+    "amountUSD": 85.96,
+    "amountVar": 61.89
+  },
+  {
+    "id": 8,
+    "transactionDate": "Mon Mar 15 2021",
+    "currency": "GBP",
+    "amountUSD": 79.75,
+    "amountVar": 57.42
+  },
+  {
+    "id": 9,
+    "transactionDate": "Wed Apr 14 2021",
+    "currency": "JPY",
+    "amountUSD": 41.64,
+    "amountVar": 29.98
+  }
+]
